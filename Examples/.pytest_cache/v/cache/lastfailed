@@ -1,0 +1,6 @@
+{
+  "Pytest/test_expectation.py::test_eval[6*9-42]": true,
+  "Pytest/test_module.py::test_func2": true,
+  "Pytest/test_tmpdir.py::test_create_file": true,
+  "Pytest/test_zeroDivisionError.py::test_zero_divisionFail": true
+}
